@@ -1,10 +1,14 @@
 {
-  "equipes": [
+  "posts": [
     {"id": 1, "text": "equipe 1"},
     {"id": 2, "text": "equipe 2"},
     {"id": 3, "text": "equipe 3"},
     {"id": 4, "text": "equipe 4"},
     {"id": 5, "text": "equipe 5"},
+  ],
+   "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
